@@ -3,7 +3,7 @@
 An artifical intelligence algorithm developed to detect fraudulent credit card transaction, dataset as proposed on Kaggle - https://www.kaggle.com/mlg-ulb/creditcardfraud.
 
 # Context
-Amomaly analysis has extension real world use, and can assist in the prevention of an event much before it's to cause any substantial or degrading effect. Its' applications span from malignant tumour detection in MRI scans in the Medical sciences, to tectonic seismic activiy in Geology, and more.
+Anomaly analysis has extension real world use, and can assist in the prevention of an event much before it's to cause any substantial or degrading effect. Its' applications span from malignant tumour detection in MRI scans in the Medical sciences, to tectonic seismic activiy in Geology, and more.
 
 # Motivation
 We will use a recurrent neural network trained over 10 epoches and will balance the labelled class so that we have an equal number of fraudulent and non-fraudulent transaction for our model to train on without developping a bias to the initially majority class.
